@@ -1,0 +1,11 @@
+hash: def7e38a989ad7036792baa2c7c682923550e5b4691191c3cf7388e04be94dc2
+updated: 2017-09-04T11:59:05.2322074-05:00
+imports:
+- name: github.com/golang/glog
+  version: 23def4e6c14b4da8ac2ed8007337bc5eb5007998
+- name: github.com/kidoman/embd
+  version: d3d8c0c5c68dc6caccebb7d720f36e64bafd0a62
+  subpackages:
+  - host/generic
+  - host/rpi
+testImports: []

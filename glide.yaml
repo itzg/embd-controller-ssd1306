@@ -1,0 +1,6 @@
+package: github.com/itzg/embd-controller-ssd1306
+import:
+- package: github.com/golang/glog
+- package: github.com/kidoman/embd
+  subpackages:
+  - host/rpi
